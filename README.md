@@ -1,2 +1,2 @@
 # RAG_IMPLEMENTATION
-This project aims to implement the RAG implementation pipeline while describing and covering almost all available methods for each element of the pipeline.
+This project covers the RAG implementation pipeline while describing/including almost all available implementation methods for each component of the pipeline.
